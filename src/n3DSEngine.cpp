@@ -274,7 +274,7 @@ int N3DSEngine::loadImage(const string& filename) {
 void N3DSEngine::drawImage(int id, Point p, double width, double height) {
     Image img = images[id];
     
-    C2D_DrawImageAt(img.face, (float) p.x, (float) p.y, (float) (id % 2));
+    C2D_DrawImageAt(img.face, (float) p.x, (float) p.y, (float) 0);
 }
 
 int N3DSEngine::loadFont(const string& filename) {
