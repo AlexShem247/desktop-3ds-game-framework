@@ -1,0 +1,9 @@
+# Generated folders
+romfs
+build
+
+# Output files
+*.3dsx
+*.elf
+*.smdh
+*.cia
