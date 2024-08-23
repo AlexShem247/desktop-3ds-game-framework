@@ -8,6 +8,8 @@ The **Cross-Platform Game Framework** is designed for developing 2D games that r
 
 Developed by **Alexander Shemaly** in 2024.
 
+To see an example game using this framework, see my [STARGLIDE](https://github.com/AlexShem247/starglide-3ds) game.
+
 ## Features
 
 - **Platform Flexibility**: Supports both desktop and Nintendo 3DS with a single codebase.
